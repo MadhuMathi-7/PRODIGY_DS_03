@@ -1,8 +1,8 @@
-📌 Task Objective
+📌 Task Objective:
 Build a Decision Tree Classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data.
 This project is part of the Data Science Internship at Prodigy InfoTech.
 
-📂 Dataset
+📂 Dataset:
 The dataset used in this project is the Bank Marketing Dataset from the UCI Machine Learning Repository.
 It contains customer information such as:
 Age
@@ -21,7 +21,7 @@ y
 yes → Customer subscribed to the service
 no  → Customer did not subscribe
 
-⚙️ Technologies Used
+⚙️ Technologies Used:
 Python
 Jupyter Notebook
 pandas
@@ -34,7 +34,7 @@ The model used in this project is:
 Decision Tree Classifier
 A Decision Tree is a supervised machine learning algorithm used for classification and prediction tasks. It works by splitting the dataset into branches based on feature conditions until a prediction is made.
 
-🔄 Project Workflow
+🔄 Project Workflow:
 1️⃣ Data Loading
 The dataset is loaded using pandas.
 2️⃣ Data Exploration
@@ -60,7 +60,7 @@ Classification Report
 8️⃣ Decision Tree Visualization
 The decision tree is visualized to understand how the model makes predictions.
 
-📊 Output
+📊 Output:
 The model predicts customer behavior based on their demographic and marketing campaign data.
 Example prediction:
 0 → Customer will not purchase
@@ -68,7 +68,7 @@ Example prediction:
 
 The decision tree diagram shows how different features influence the final prediction.
 
-📁 Project Structure
+📁 Project Structure:
 PRODIGY_DS_03
 │
 ├── bank.csv
@@ -76,7 +76,7 @@ PRODIGY_DS_03
 ├── README.md
 └── requirements.txt
 
-🚀 Learning Outcomes
+🚀 Learning Outcomes:
 Through this project, I learned:
 Data preprocessing techniques
 Handling categorical data
